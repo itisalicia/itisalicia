@@ -5,5 +5,5 @@ Hi there 👋
 - 🌱 I’m currently learning JavaScript, React, SQL and ready to learn so much more.
 - 🔎 Presently searching for an intership to continue my training.
 - 🎬 Hobbies : Movies/TV Shows, reading, writing and listening to music
-- ⚡ Fun fact: As a huge Harry Potter fan, I assure you that working with me will bring a touch of magic to your team! 🪄
+- ⚡ As a huge Harry Potter fan, I assure you that working with me will bring a touch of magic to your team! 🪄
 
