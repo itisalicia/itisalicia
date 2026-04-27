@@ -5,4 +5,5 @@ Hi there 👋
 - 🔎 Presently searching for job (CDI)
 - 🎬 Hobbies : Movies/TV Shows, reading, writing and listening to music
 - ⚡ As a huge Harry Potter fan, I assure you that working with me will bring a touch of magic to your team! 🪄
+- 🎃 Ouidou Halloween Challenge : Which serial killer are you ? https://the-css-chainsaw-massacre.vercel.app/ (100% done by myself with React)
 
